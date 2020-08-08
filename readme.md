@@ -6,7 +6,7 @@ Previously, Cultist Simulator allowed you to rebind some keys in the launch scre
 
 This mod re-adds binding capability, as well as expanding it to controls previously not exposed for rebinding.
 
-Download the latest release [here](https://github.com/RoboPhred/cultist-recipe-hotkeys/releases/).
+Download the latest release [here](https://github.com/RoboPhred/cultist-rebind/releases/).
 
 ## Usage
 

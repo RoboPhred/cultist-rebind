@@ -55,19 +55,19 @@ If BepInEx is installed and configured properly, you should see messages similar
 Once you have confirmed BepInEx is installed properly, look for the mod loading message. Once you start the game from the launcher, the terminal window should contain:
 
 ```
-[Info   :   BepInEx] Loading [CultistRecipeHotkeys 0.0.1]
+[Info   :   BepInEx] Loading [CultistRebind 0.0.1]
 ```
 
 and
 
 ```
-[Info   :CultistRecipeHotkeys] CultistRecipeHotkeys initialized.
+[Info   :CultistRebind] CultistRebind initialized.
 ```
 
 If you do not see these lines, then the mod isn't in the correct folder. Check the Installation instructions for details on where to put the mod.
 
-If you have confirmed all of the above and still are having trouble, try looking at the terminal for lines starting with `[Error :CultistRecipeHotkeys]`. The mod will
-try to log errors when it cannot do it's job properly. Create a github issue with any CultistRecipeHotkeys error messages you find, and I will try to help you further.
+If you have confirmed all of the above and still are having trouble, try looking at the terminal for lines starting with `[Error :CultistRebind]`. The mod will
+try to log errors when it cannot do it's job properly. Create a github issue with any CultistRebind error messages you find, and I will try to help you further.
 
 ## Development
 

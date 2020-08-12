@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace CultistRebind
 {
-    [BepInPlugin("CultistRebind", "CultistRebind", "1.0.0")]
+    [BepInPlugin("net.robophreddev.CultistSimulator.CultistRebind", "CultistRebind", "1.0.1")]
     public class CultistRebindPlugin : BaseUnityPlugin
     {
         // KeyDown
